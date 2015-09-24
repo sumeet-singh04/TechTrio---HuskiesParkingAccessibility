@@ -2,304 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38eae1f2-a413-48ae-b0d5-2b2867c9591f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/device/src/CallKeyboard.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/simulator/src/CallKeyboard.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/device/src/Logger.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/simulator/src/Logger.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/ionic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/device/public/json_reader.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/simulator/public/json_reader.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/device/public/json_value.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/simulator/public/json_value.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/device/public/json_writer.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/simulator/public/json_writer.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/device/src/keyboard_js.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/simulator/src/keyboard_js.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/device/src/keyboard_ndk.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/simulator/src/keyboard_ndk.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/device/libKeyboard.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/simulator/libKeyboard.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/device/public/plugin.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/simulator/public/plugin.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/device/public/tokenizer.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/simulator/public/tokenizer.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/.cproject" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/CDVSplashScreenTest/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hooks/after_prepare/010_add_platform_class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/ios/CDVDevice.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/ios/CDVDevice.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/src/ios/CDVLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/src/ios/CDVLogger.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/ios/CDVNavigationWhitelistPlugin.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/ios/CDVNavigationWhitelistPlugin.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/ios/CDVSplashScreen.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/ios/CDVSplashScreen.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/CDVSplashScreenTest/CDVSplashScreenTest.xcodeproj/xcshareddata/xcschemes/CDVSplashScreenLib.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/CDVSplashScreenTest/CDVSplashScreenTest.xcodeproj/xcshareddata/xcschemes/CDVSplashScreenLibTests.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/CDVSplashScreenTest.xcworkspace/xcshareddata/CDVSplashScreenTest.xccheckout" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/CDVSplashScreenTest/CDVSplashScreenTest.xcodeproj/project.xcworkspace/xcshareddata/CDVSplashScreenTest.xccheckout" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/ios/CDVViewController+SplashScreen.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/ios/CDVViewController+SplashScreen.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/CDVSplashScreenTest.xcworkspace/xcshareddata/xcschemes/CordovaLib.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/src/wp/DebugConsole.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/wp/Device.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/android/Device.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/browser/DeviceProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/firefoxos/DeviceProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/tizen/DeviceProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/windows/DeviceProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/CDVSplashScreenTest/CDVSplashScreenLibTests/ImageNameTest.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/CDVSplashScreenTest/CDVSplashScreenLibTests/ImageNameTestDelegates.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/CDVSplashScreenTest/CDVSplashScreenLibTests/ImageNameTestDelegates.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/CDVSplashScreenTest/CDVSplashScreenLibTests/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/ios/IonicKeyboard.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/android/IonicKeyboard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/ios/IonicKeyboard.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/src/Logger.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/src/Logger.hpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hooks/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/de/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/es/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/fr/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/it/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/ja/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/ko/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/pl/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/zh/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/de/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/es/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/fr/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/it/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/ja/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/ko/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/pl/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/zh/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/de/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/es/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/fr/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/it/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/ja/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/ko/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/pl/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/zh/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/doc/de/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/doc/es/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/doc/fr/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/doc/it/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/doc/ja/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/doc/ko/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/doc/pl/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/doc/zh/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/doc/de/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/doc/es/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/doc/fr/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/doc/it/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/doc/ja/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/doc/ko/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/doc/pl/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/doc/zh/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/RELEASENOTES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/RELEASENOTES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/RELEASENOTES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/RELEASENOTES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/wp/ResolutionHelper.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/wp/SplashScreen.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/android/SplashScreen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/browser/SplashScreenProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/tizen/SplashScreenProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/www/windows/SplashScreenProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/ios/UIWebViewExtension.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/ios/UIWebViewExtension.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/android/WhitelistPlugin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_action-sheet.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_animations.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_backdrop.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_badge.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_button-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_button.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_checkbox.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_form.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-font.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_items.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_loading.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_modal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_platform.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_popover.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_popup.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_progress.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_radio.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_range.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_refresher.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_reset.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_scaffolding.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_select.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_slide-box.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_spinner.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_toggle.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_transitions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_type.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_util.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-animate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-animate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-resource.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-sanitize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular-sanitize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular-ui/angular-ui-router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular-ui/angular-ui-router.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/angular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/json/autolink.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/browse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/json/config.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/www/console-via-logger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/src/ubuntu/console.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/src/ubuntu/console.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/CDVSplashScreenTest.xcworkspace/contents.xcworkspacedata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/CDVSplashScreenTest/CDVSplashScreenTest.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/controllers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/ubuntu/device.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/ubuntu/device.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/ubuntu/device.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/www/device.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/json/features.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/json/forwards.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/blackberry10/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/blackberry10/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/de/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/es/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/fr/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/it/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/ja/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/ko/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/pl/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/ru/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/doc/zh/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/de/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/es/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/fr/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/it/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/ja/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/ko/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/pl/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/ru/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/doc/zh/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/de/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/es/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/fr/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/it/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/ja/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/ko/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/pl/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/ru/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/doc/zh/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic-angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic-angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/ionic.app.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.bundle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/css/ionic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/css/ionic.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ionic.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionic.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/ionicons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/json/json.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/json_batchallocator.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/json_internalarray.inl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/json_internalmap.inl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/json_reader.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/json_value.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/json_valueiterator.inl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/json_writer.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/www/keyboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/src/keyboard_js.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/src/keyboard_js.hpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/src/keyboard_ndk.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/src/keyboard_ndk.hpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/www/logger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/playlist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/playlists.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/plugin.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/plugin.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/tests/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/tests/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/ios/CDVSplashScreenTest/CDVSplashScreenTest.xcodeproj/project.pbxproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/json/reader.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/ubuntu/splashscreen.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/ubuntu/splashscreen.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/www/splashscreen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-console/tests/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device/tests/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/tests/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/tokenizer.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/tokenizer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/json/value.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/version.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/whitelist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.ionic.keyboard/src/blackberry10/native/public/json/writer.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TechTrio---HuskiesParkingAccessibility.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -321,7 +25,38 @@
     <favorites_list name="TechTrio---HuskiesParkingAccessibility" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.230769">
+              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4890017">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -334,6 +69,13 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
@@ -667,29 +409,37 @@
       <created>1443055268634</created>
       <option name="number" value="Default" />
       <updated>1443055268634</updated>
-      <workItem from="1443055271327" duration="1004000" />
+      <workItem from="1443055271327" duration="2514000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit to develop. Created basic ionic sidemenu application.">
+      <created>1443056305054</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1443056305054</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1004000" />
+    <option name="totallyTimeSpent" value="2514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3300866" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3300866" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -707,6 +457,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial commit to develop. Created basic ionic sidemenu application." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit to develop. Created basic ionic sidemenu application." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -718,16 +474,32 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5361781">
-          <caret line="17" column="67" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+        <state vertical-scroll-proportion="-13.230769">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35044247">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.27079645">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4890017">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding />
         </state>
       </provider>
